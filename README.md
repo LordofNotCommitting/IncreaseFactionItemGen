@@ -1,6 +1,7 @@
 **Need to restart the game after MCM config setup for mode change to take effect**
 
 Faction item production is separate from any other normal processing, and is flat rate across all stations and systems. regardless of production chain or population or etc.
+
 This is how it functions: For Every **[Period]** weeks, each station have **[percentage]**% of producing **[Count]**# of item from faction item pool.
 
 In 0.9.5 (stable) it is:
